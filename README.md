@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**GrahadiM/GrahadiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there 👋 , I'm GrahadiM!
     
 Hi there, I'm **GrahadiM**, a **Web Developer**, a **App Developer** and a **Software Engineering Student** 🚀 from Indonesia.
@@ -26,8 +10,8 @@ Hi there, I'm **GrahadiM**, a **Web Developer**, a **App Developer** and a **Sof
   - 📫 You can reach me at <a href="mailto:abdurrahmangrahadimaulana@gmail.com">abdurrahmangrahadimaulana@gmail.com</a>
   
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adhiariyadi&show_icons=true&include_all_commits=true&count_private=true" alt="adhiariyadi" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhiariyadi&layout=compact&langs_count=10" alt="adhiariyadi" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GrhadiM&show_icons=true&include_all_commits=true&count_private=true" alt="adhiariyadi" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrhadiM&layout=compact&langs_count=10" alt="adhiariyadi" height="200" />
 </p>
 
 ### Let's connect!
@@ -38,4 +22,4 @@ Hi there, I'm **GrahadiM**, a **Web Developer**, a **App Developer** and a **Sof
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhiariyadi)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/adhiariyadi.me)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adhiariyadi_)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhiariyadi?tab=follow)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrhadiM?tab=follow)
